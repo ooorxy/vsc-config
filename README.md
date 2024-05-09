@@ -1,2 +1,2 @@
-# vsc-config
-IDE settings if I want to use VSC
+### Remind
+Install Inter and JetBrains Mono fonts to use those settings
